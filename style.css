@@ -1,0 +1,95 @@
+                                                div {
+                                                    position: relative;
+                                                    top: 5px;
+                                                    height: auto;
+                                                    margin-bottom: 20px;
+                                                }
+                                                
+                                                body {
+                                                    /*100% =16px;*/
+                                                    background-color: #E8F9FD;
+                                                    text-align: center;
+                                                    margin: 0%;
+                                                }
+                                                
+                                                h2 {
+                                                    color: #8bc6bf;
+                                                }
+                                                
+                                                h1 {
+                                                    color: #8bc6bf;
+                                                }
+                                                
+                                                #web {
+                                                    color: #8bc6bf;
+                                                    font-size: 2.0rem;
+                                                    padding-top: 0px;
+                                                    font-weight: normal;
+                                                    font-family: 'Merriweather', serif;
+                                                }
+                                                
+                                                #name {
+                                                    color: #7cb3abc4;
+                                                    position: relative;
+                                                    top: 100px;
+                                                    font-size: 450%;
+                                                    font-family: 'Sacramento', cursive;
+                                                    padding-bottom: opx;
+                                                }
+                                                
+                                                .topcloud {
+                                                    position: absolute;
+                                                    top: 10px;
+                                                    right: 220px;
+                                                }
+                                                
+                                                .bottomcloud {
+                                                    position: absolute;
+                                                    bottom: 300px;
+                                                    left: 220px;
+                                                }
+                                                
+                                                .this {
+                                                    text-align: left;
+                                                    width: 50%;
+                                                    margin: 100px auto 100px auto;
+                                                    line-height: 2;
+                                                }
+                                                
+                                                .photo {
+                                                    width: 20%;
+                                                    float: left;
+                                                    margin-right: 20px;
+                                                    margin-bottom: 20px;
+                                                }
+                                                
+                                                .coputer {
+                                                    width: 20%;
+                                                    float: right;
+                                                    /*rap arround the screen*/
+                                                    margin-left: 20px;
+                                                }
+                                                
+                                                .skills {
+                                                    margin: 20px auto 50px auto;
+                                                }
+                                                
+                                                .profile {
+                                                    margin-bottom: 200px;
+                                                }
+                                                
+                                                #code {
+                                                    clear: right;
+                                                    /*prevent image from rapping*/
+                                                }
+                                                
+                                                #copy {
+                                                    background-color: rgb(5, 219, 205);
+                                                    margin-bottom: ;
+                                                    padding: 50px;
+                                                    text-align: center;
+                                                }
+                                                
+                                                .contact-me {
+                                                    text-align: center;
+                                                }
